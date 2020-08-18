@@ -14,7 +14,6 @@ namespace ContForDevs.Pages
 
         public PrivacyModel(ILogger<PrivacyModel> logger)
         {
-            int x = 0;
             _logger = logger;
         }
 
