@@ -3,7 +3,7 @@ Docker containers for Devs contpaqi course
 
 
 
-# Docker commands
+## Docker commands
 
 docker rmi (remove an image)
  
